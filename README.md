@@ -14,7 +14,7 @@ it at all times.  CafePress conveniently provides an API and allows developers t
 To learn more about the API, visit the Cafepress Developer's Network at http://www.cafepress.com/cp/developers/docs/
 
 A demo will be uploaded at some point in order to further clarify what I'm doing.  Or you can view a DurandalJS-based 
-website that makes use of the CafePressAPI at http://dracotal.nodeomega.com (DISCLAIMER: It is my front-end site 
+website that makes use of the CafePressAPI at http://dracotal.com (DISCLAIMER: It is my front-end site 
 for my CafePress store), which makes extensive use of the CafePressAPI library there.
 
 ## A little more info
